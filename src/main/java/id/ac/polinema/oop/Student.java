@@ -60,7 +60,7 @@ public class Student {
             return "Very Satisfactory";
         }
         else {
-            return "satisfactory";
+            return "Satisfactory";
         }
     }
 }
